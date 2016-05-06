@@ -33,3 +33,30 @@ en-UK:
 
 # Another locale
 # --------------
+
+fr: &DEFAULT_FR
+  page                  : "Page"
+  pagination_previous   : "Précédant"
+  pagination_next       : "Suivant"
+  breadcrumb_home_label : "Accueil"
+  breadcrumb_separator  : "/"
+  toc_label             : "Sur Cette Page"
+  ext_link_label        : "Lien Direct"
+  less_than             : "moins de"
+  minute_read           : "minute de lecture"
+  minutes_read          : "minutes de lecture"
+  share_on_label        : "Partager"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Catégories:"
+  date_label            : "Mis à jour le"
+  comments_label        : "Comment taire ?"
+  more_label            : "Lire plus"
+  related_label         : "Sur le même sujet"
+  follow_label          : "Me suivre:"
+  feed_label            : "Feed"
+  powered_by            : "Propulsé par"
+  website_label         : "Website"
+  email_label           : "Email"
+fr-FR:
+  <<: *DEFAULT_FR
