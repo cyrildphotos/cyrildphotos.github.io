@@ -1,9 +1,10 @@
 ---
 title: "Banque Citoyenne de France"
-excerpt: "Pour une monnaie commune gérée en commun."
+excerpt: "Comment liquider la dette souveraine à moindre frais au change."
 tags: [monnaie, banque, création monétaire, Franc]
 categories: Institution
-image: Franc_vs_Euro.jpg
+header:
+  image: Franc_vs_Euro.jpg
 ---
 
 ## BCF
@@ -11,8 +12,6 @@ image: Franc_vs_Euro.jpg
 de la souverainté monétaire et sa gouvernance démocratique
 
 ### Une monnaie commune gérée en commun
-
-![Franc versus Euro](https://dl.dropbox.com/s/yc2dpft5i0dhiap/franc-vs-euro.jpg)
 
 ## Déclaration de ses principes
 

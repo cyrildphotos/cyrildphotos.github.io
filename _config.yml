@@ -42,7 +42,7 @@ facebook:
   username               : "cyrildphotos"
   app_id                 :
   publisher              :
-og_image                 : Franc_vs_Euro.jpg
+og_image                 : ""
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
@@ -193,25 +193,25 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 
-# Don't work
+# jekyll-archives don't work on GitHub
 
 categories:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tags:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-   enabled:
-     - categories
-     - tags
-   layouts:
-     category: archive-taxonomy
-     tag: archive-taxonomy
-   permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
+#jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
