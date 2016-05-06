@@ -54,7 +54,7 @@ fr: &DEFAULT_FR
   more_label            : "Lire plus"
   related_label         : "Sur le même sujet"
   follow_label          : "Me suivre:"
-  feed_label            : "Feed"
+  feed_label            : "Flux"
   powered_by            : "Propulsé par"
   website_label         : "Website"
   email_label           : "Email"
