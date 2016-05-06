@@ -2,6 +2,7 @@
 title: "Nécessaire décroissance"
 excerpt: "La croissance est nécessaire afin d'honorer les intérêts qui la financent."
 tags: [usure, croissance, décroissance]
+categories: Institution
 ---
 
 ## Des intérêts de la croissance 
@@ -49,3 +50,5 @@ Mais de la ploutocratie peut naître la démocratie, comme du venin son antidote
 Gardez bien à l’esprit qu’un arbre ne vend pas ses fruits, l’argent n’est pas vital. 
 
 Comment faire du venin son antidote ?
+
+Proposition : faire un Franc « _libérateur_ » avec une institution démocratique : la Banque Citoyenne de France.

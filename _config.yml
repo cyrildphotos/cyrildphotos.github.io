@@ -27,6 +27,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 
+include: ["_pages"]
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -40,13 +42,23 @@ facebook:
   username               : "cyrildphotos"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
+og_image                 : Franc_vs_Euro.jpg
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Cyril Delacour"
+  links:
+    - "https://www.facebook.com/cyrildphotos"
+    - "https://twitter.com/cyrildphotos"
+    - "https://plus.google.com/u/0/107690224755569491061"
+    - "https://demascarade.wordpress.com"
+    - "https://injusticiables.wordpress.com"
+    - "http://cyrildphotos.tumblr.com"
+    - "http://cyrildelacour.tumblr.com"
+    - "https://www.flickr.com/photos/cyril-delacour"
+    - "http://www.scoop.it/t/comprendre-la-monnaie"
+    - "http://www.scoop.it/t/coup-de-tete-au-depute-ps-terrasse"
+    - "https://tom-le-cancre.blogspot.fr"
 
 # Analytics
 analytics:
@@ -70,7 +82,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "cyril-delacour"
   facebook         :
   foursquare       :
   github           :
@@ -159,6 +171,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -167,6 +180,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 
 # Archives
@@ -180,22 +194,22 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 categories:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tags:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
@@ -216,3 +230,9 @@ defaults:
       comments: true
       share: true
       related: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false

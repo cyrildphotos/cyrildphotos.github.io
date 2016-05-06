@@ -1,6 +1,9 @@
 ---
 title: "Banque Citoyenne de France"
 excerpt: "Pour une monnaie commune gérée en commun."
+tags: [monnaie, banque, création monétaire, Franc]
+categories: Institution
+image: Franc_vs_Euro.jpg
 ---
 
 ## BCF
