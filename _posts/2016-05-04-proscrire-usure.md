@@ -2,7 +2,7 @@
 title: "Nécessaire décroissance"
 excerpt: "La croissance est nécessaire afin d'honorer les intérêts qui la financent."
 tags: [usure, croissance, décroissance]
-categories: Institution
+categories: "Économie"
 ---
 
 ## Des intérêts de la croissance 

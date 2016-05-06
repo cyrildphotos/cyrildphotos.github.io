@@ -1,8 +1,13 @@
 ---
 title: "Banque Citoyenne de France"
-excerpt: "Comment liquider la dette souveraine à moindre frais au change."
-tags: [monnaie, banque, création monétaire, Franc]
-categories: Institution
+excerpt: "Comment liquider la dette souveraine à moindre frais au change"
+tags:
+  - monnaie
+  - banque
+  - "création monétaire"
+  - Franc
+categories:
+  - Institution
 header:
   image: Franc_vs_Euro.jpg
 ---
