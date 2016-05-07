@@ -1,4 +1,245 @@
-# Command : jekyll serve --config _conf.yml,_config_dev.yml
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-url: "http://127.0.0.1:4000"
-baseurl: ""
+# Site Settings
+locale                   : "fr-FR"
+title                    : "Monnaie"
+title_separator          : "-"
+name                     : "Cyril Delacour"
+description              : "De la nécessité de changer le système monétaire."
+url                      : "http://127.0.0.1:4000"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+gh_repo                  :
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "cyrildphotos-github"
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+
+include: ["_pages"]
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : "cyrildphotos"
+facebook:
+  username               : "cyrildphotos"
+  app_id                 :
+  publisher              :
+og_image                 : ""
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : Person
+  name                   : "Cyril Delacour"
+  links:
+    - "https://www.facebook.com/cyrildphotos"
+    - "https://twitter.com/cyrildphotos"
+    - "https://plus.google.com/u/0/107690224755569491061"
+    - "https://demascarade.wordpress.com"
+    - "https://injusticiables.wordpress.com"
+    - "http://cyrildphotos.tumblr.com"
+    - "http://cyrildelacour.tumblr.com"
+    - "https://www.flickr.com/photos/cyril-delacour"
+    - "http://www.scoop.it/t/comprendre-la-monnaie"
+    - "http://www.scoop.it/t/coup-de-tete-au-depute-ps-terrasse"
+    - "https://tom-le-cancre.blogspot.fr"
+
+# Analytics
+analytics:
+  provider               : "google"
+  google:
+    tracking_id          : "UA-56155140-1"
+
+# Google AdSense
+google_ad_client         :
+google_ad_slot           :
+
+
+# Site Author
+author:
+  name             : "Cyril Delacour"
+  avatar           : "bio-photo.jpg"
+  bio              : "Insurgé."
+  location         : "St Montan, Ardèche, France"
+  email            : "cyrildphotos@gmail.com"
+  uri              : "http://about.me/cyril_delacour"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "_config_dev.yml"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Outputting
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "page:num"
+timezone: "Europe/Paris"
+
+
+
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+paginate: 5
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+
+# jekyll-archives don't work on GitHub
+
+categories:
+  type: liquid
+  path: /categories/
+tags:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+#jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      comment: true

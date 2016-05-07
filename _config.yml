@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Blog"
+title                    : "Monnaie"
 title_separator          : "-"
 name                     : "Cyril Delacour"
-description              : "Comprendre la nécessité de changer de système monétaire."
+description              : "De la nécessité de changer le système monétaire."
 url                      : "http://cyrildphotos.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -62,7 +62,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
     tracking_id          : "UA-56155140-1"
 
@@ -108,6 +108,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - "_config_dev.yml"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -158,10 +159,12 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "page:num"
 timezone: "Europe/Paris"
+
+
 
 
 # Plugins
@@ -171,7 +174,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
+
+paginate: 5
 
 # mimic GitHub Pages with --safe
 whitelist:
