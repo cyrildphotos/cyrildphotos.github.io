@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Blog"
 title_separator          : "-"
 name                     : "Cyril Delacour"
-description              : "Quand le mystère est triop impressionnant…"
+description              : "Comprendre la nécessité de changer de système monétaire."
 url                      : "http://cyrildphotos.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -78,11 +78,11 @@ author:
   bio              : "Insurgé."
   location         : "St Montan, Ardèche, France"
   email            : "cyrildphotos@gmail.com"
-  uri              :
+  uri              : "http://about.me/cyril_delacour"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "cyril-delacour"
+  flickr           :
   facebook         :
   foursquare       :
   github           :
