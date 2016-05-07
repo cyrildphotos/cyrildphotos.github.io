@@ -21,3 +21,11 @@ La monnaie que nous utilisons est crée (avec intérêts) par les banques privé
 La commission "[Création Monétaire et Démocratie #MonnaieDebout](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Création_monétaire_et_Démocratie_-_MonnaieDebout)" travaille sur la question à Paris République cependant il me semble que cette question concerne chaque usager car du simple fait d'utiliser de l'argent nous sommes compromis, nous alimentons ce système qui nous aliène : "**liberté**" aliénée au pouvoir d'achat - "**égalité**" comme déni des réalités - "**fraternité**" réservée à l'oligarchie qui nous impose toujours plus de compétitivité et nous divise pour mieux régner ! Nous sommes en PLOUTOCRATIE.
 
 Alors la question est de savoir comment faire de ce venin (l'argent tel qu'il est actuellement) un antidote.
+
+## Réponses
+
+### Silence
+
+Il faut tout simplement commencer par déprivatiser la monnaie, donc remettre la banque centrale sous contrôle démocratique (la BCE est aujourd'hui indépendante du pouvoir politique, donc ultra-dépendante des intérêts privés des banksters) et saisir les banques privés pour les mettre sous contrôle non pas de l'État (qui ferait n'importe quoi avec s'il reste colonisé par les mêmes modes de pensée qui ont engendré l'oligarchie), mais des citoyens.
+
+Il y avait récemment eu un débat intéressant sur le sujet : <https://www.anti-k.org/2016/03/27/debat-a-propos-de-que-faire-des-banques/>
