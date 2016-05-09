@@ -29,7 +29,7 @@ Un arbre ne vend pas ses fruits, il n’a pas besoin d’argent pour vivre. L’
 
 Dans la vie il arrive qu’on donne à l’un et que ce soit un autre qui te donne. Il n’y a pas besoin d’argent pour cela, c’est naturel.
 
-À l’école tu apprendras ce qu’il faut pour avoir un métier, exercer une profession, trouver du travail, un emploi. Les femmes et les hommes croient que ce qu’il faut pour vivre, c’est de l’argent, ça compte beaucoup pour eux. À l’école tu apprendras à gagner de l’argent mais pas ce qu’est l’argent, qui fait l’argent et comment il est créé au détruit. C’est dommage car finalement les gens ne savent pas exactement pourquoi ils travaillent et ils pensent bêtement que c’est pour vivre une condition essentielle alors que ce n’est pas vrai, c’est juste une habitude, quelque chose qui à force est devenu « normal » pour eux.
+À l’école tu apprendras ce qu’il faut pour avoir un métier, exercer une profession, trouver du travail, un emploi. Les femmes et les hommes croient que ce qu’il faut pour vivre, c’est de l’argent, ça compte beaucoup pour eux. À l’école tu apprendras à gagner de l’argent mais pas ce qu’est l’argent, qui fait l’argent et comment il est créé ou détruit. C’est dommage car finalement les gens ne savent pas exactement pourquoi ils travaillent et ils pensent bêtement que c’est pour vivre une condition essentielle alors que ce n’est pas vrai, c’est juste une habitude, quelque chose qui à force est devenu « normal » pour eux.
 
 Moi, je crois que ça rend les gens malheureux même s’ils veulent croire que l’argent fait leur bonheur, et c’est ce que répète souvent la télévision, la radio et le cinéma.
 
