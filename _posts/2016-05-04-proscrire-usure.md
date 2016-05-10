@@ -1,8 +1,12 @@
 ---
-title: "Nécessaire décroissance"
+title: Nécessaire décroissance
 excerpt: "La croissance est nécessaire afin d'honorer les intérêts qui la financent."
-tags: [usure, croissance, décroissance]
-categories: "Économie"
+tags: 
+  - usure
+  - croissance
+  - décroissance
+categories: Économie
+published: true
 ---
 
 ## Des intérêts de la croissance 
@@ -51,4 +55,4 @@ Gardez bien à l’esprit qu’un arbre ne vend pas ses fruits, l’argent n’e
 
 Comment faire du venin son antidote ?
 
-Proposition : faire un Franc « _libérateur_ » avec une institution démocratique : la Banque Citoyenne de France.
+Proposition : faire un Franc « _libérateur_ » avec une institution démocratique : la [Banque Citoyenne de France](http://cyrildphotos.github.io/institution/Banque_Citoyenne_de_France_BCF/).
