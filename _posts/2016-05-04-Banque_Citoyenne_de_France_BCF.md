@@ -1,20 +1,21 @@
 ---
-title: "Banque Citoyenne de France"
-excerpt: "Comment liquider la dette souveraine à moindre frais au change"
-tags:
+title: Banque Citoyenne de France
+excerpt: Comment liquider la dette souveraine à moindre frais au change
+tags: 
   - monnaie
   - banque
-  - "création monétaire"
+  - création monétaire
   - Franc
-categories:
+categories: 
   - Institution
-header:
+header: 
   image: Franc_vs_Euro.jpg
+published: true
 ---
 
 ## BCF
 
-de la souverainté monétaire et sa gouvernance démocratique
+De la souverainté monétaire et sa gouvernance démocratique.
 
 ### Une monnaie commune gérée en commun
 
@@ -38,7 +39,7 @@ Le service de la dette souveraine est un poste important des dépenses qui nuit 
 
 Les citoyens changeant des € pour des Francs permettent à la BCF de récolter des €. Ces € seraint utilisés, frais déduits, afin de rembourser les capitaux de la dette souveraine. Cette monnaie participerait ainsi à la suppression d'un poste de dépenses qui nuit aux autres services de l'État français, tout en réalisant une grande économie puisqu'il n'y aurait aucune perte de pouvoir d'achat au change (1 € = 1 Franc), les Francs venant faire concurrence aux € gardant exactement le même usage, à la condition que cette monnaie soit acceptée dans les échanges économiques normaux et donc par ses acteurs.
 
-**Le Franc aurait une valeur libératrire en plus de sa valeur numéraire** comme monnaie nationale.
+**Le Franc aurait une valeur libératrire en plus de sa valeur numéraire.**
 
 ### 2. Sanctionner l'usure par l'usage
 
